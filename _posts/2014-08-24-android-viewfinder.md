@@ -8,6 +8,8 @@ tags: [ViewFinder]
 ---
 {% include codepiano/setup %}
 
+## copy from stormzhang as a sample
+
 在Android获取一个View一般都是通过如下方式：
 
     TextView textView = (TextView) findViewById(R.id.textview);
