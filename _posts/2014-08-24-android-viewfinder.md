@@ -2,7 +2,7 @@
 layout: post
 keywords: blog
 description: blog
-title: "Android ViewFinder"
+title: "Android ViewFinder(copy from stormzhang as a sample)"
 categories: [AndroidTips]
 tags: [ViewFinder]
 ---
