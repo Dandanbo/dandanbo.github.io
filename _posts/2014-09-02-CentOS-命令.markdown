@@ -1,0 +1,1 @@
+安装中文输入法命令：yum install "@Chinese Support"
